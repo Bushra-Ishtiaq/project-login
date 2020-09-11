@@ -1,0 +1,131 @@
+
+.login-sec{
+  border: 70px solid #a78627;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding:180px 0 ;
+  background-color: #a78627;
+}
+#login{
+  background-color: #111433;
+  width: 450px;
+  height: 75vh;
+  position: absolute;
+  top: 210px;
+}
+.loginh1{
+  margin: 78px 0px 65px 90px;
+  border-bottom: 2px solid #a78627;
+  width: 60%;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+.login-input{
+  margin: 35px 0px 0px 90px;
+  border-bottom: 2px solid #a78627;
+  width: 63%;
+}
+input{
+  border: none;
+  outline: none;
+  background: none;
+  color: #ffffff;
+  margin-left: 10px;
+}
+main i{
+  color: #ffffff;
+}
+.login-btn{
+  padding: 10px 125px;
+  margin: 34px 81px;
+  font-size: 20px;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  background-color: #a78627;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  width:300px;
+
+}
+.login-btn:hover{
+  cursor: pointer;
+}
+.login-link{
+  display: flex;
+  justify-content: space-around;
+}
+.login-link{
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+.login-link:hover {
+  color: #a78627;
+}
+.signup-link-para{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px 81px;
+}
+.signup-link{
+  text-decoration: none;
+  display: flex;
+  color: #a78627;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Responsive Design for login & signp  */
+
+@media screen and (max-width: 300px) {
+#login{
+  background-color: #111433;
+  width: 198%;
+  height: 91vh;
+  position: absolute;
+  top: 77px;
+  left: -19px;
+}
+
+}
+
+@media screen and (max-width: 563px) {
+.login-sec{
+    border: 70px solid #a78627;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 108px 0;
+    background-color: #a78627;
+}
+#login{
+  background-color: #111433;
+    width: 561px;
+    height: 75vh;
+    position: absolute;
+    top: 71px;
+
+}
+}
+@media screen and (max-width: 463px) {
+  #login{
+    background-color: #111433;
+      width: 561px;
+      height: 75vh;
+      position: absolute;
+      top: 21px;
+  
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #login{
+    background-color: #111433;
+    width: 110%;
+    height: 87vh;
+    position: absolute;
+    top: 17px;
+    left: -19px;
+  }
+}

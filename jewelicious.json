@@ -1,0 +1,3562 @@
+{   
+    "websiteTitle" : "jewelicious",
+    "category" : "jewelery",
+    "logo" : "images/final-logo.jpeg",
+    "address" : " ",
+    "email" : " ",
+    "contactNumber" : " ",
+    "user" : [
+        
+        {
+            "id":1,
+            "name":"Sana",
+            "email":"sana@gmail.com",
+            "password":"sana",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"  
+        },
+        {
+            "id":2,
+            "name":"Ahmed",
+            "email":"ahmed@gmail.com",
+            "password":"ahmed",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+        },
+          
+        {
+            "id":3,
+            "name":"Farah",
+            "email":"farah@gmail.com",
+            "password":"farah",
+            "review":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"  
+        } 
+    ],
+    "categories" : [
+         {
+            "men-jewellery" : [
+                {
+                    "pendants" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : "ps001",
+                                    "name" : "silver Pendant I",
+                                    "price" : "Rs. 25,000",
+                                    "weight" : "3.5gm ",
+                                    "stones" : "none ",
+                                    "image-path" : "images/men/pendants/pendant1.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : ""
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 4,
+                                     "name" : " ",
+                                     "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                     "image-path" : " ",
+                                     "sub-images" : [
+                                            {
+                                                "image-path" : " "
+                                            },
+                                            {
+                                                "image-path" : " "
+                                             }
+                                        ]  
+                                },
+                                {
+                                    "id" : 5,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                     "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                        {
+                                             "image-path" : " "
+                                        },
+                                        {
+                                             "image-path" : " "
+                                        }
+                                    ]  
+                                }
+
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : "pg001",
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : "pd001",
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }, 
+                {
+                    "rings" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : "rs001",
+                                    "name" : "Antique Ring I",
+                                    "price" : "Rs. 35,000 ",
+                                    "weight" : "5 gms ",
+                                    "stones" : " 15 ",
+                                    "image-path" : "images/men/rings/antique-ring-l.JPG ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/men/rings/antique-ring-ll.JPG "
+                                        },
+                                        {
+                                            "image-path" : "images/men/rings/antique-ring-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }, 
+                {
+                    "cufflinks" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "bracelets" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "earrings" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }
+            ]
+        
+        
+        }, 
+        {
+            " women-jewellery" : [
+                {
+                    "pendants" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : "wps001",
+                                    "name" : "The Tresa",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/diamond-pendant1.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" :"wps002",
+                                    "name" : "The 925",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/the-925.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wps003",
+                                    "name" : "The 925 II",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/the-925-2.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wps004",
+                                    "name" : "The 925 III",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/the-925-3.JPG",
+                                    "sub-images" : "none"
+                                }
+
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : "wpg001",
+                                    "name" : "The Loris",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " images/women/pendants/gold-pendant1.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wpg002",
+                                    "name" : "The Parke",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/gold-pendant2.JPG ",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/gold-pendant2-ll.JPG "
+                                        }
+                                },
+                                {
+                                    "id" : "wpg003",
+                                    "name" : "The Janell",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/necklace2.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wpg004",
+                                    "name" : "The Umbertu",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/pendant2.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wpg005",
+                                    "name" : "The Aryana",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "35",
+                                    "image-path" : "images/women/pendants/pendant3.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wpg006",
+                                    "name" : "The Jesse",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/pendant5.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wpg007",
+                                    "name" : "The Compass",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-compass.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/the-compass-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg008",
+                                    "name" : "Tikkia",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : "",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/tikkia.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/pendants/tikkia-lll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/pendants/tikkia-lV.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wpg009",
+                                    "name" : "The Alessandra",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-alessandra.JPG",
+                                    "sub-images" :
+                                       {
+                                            "image-path" : "images/women/pendants/the-alessandra-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg010",
+                                    "name" : "The Bree",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-bree.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/pendants/the-bree-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/pendants/the-bree-lll.JPG"
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : "wpd001",
+                                    "name" : "The Arye",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/pendant.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wpd002",
+                                    "name" : "The Abiaana",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/the-abiaana-ll.JPG",
+                                    "sub-images" :
+                                       {
+                                            "image-path" : "images/women/pendants/the-abiaana.JPG"
+                                        }
+                                },
+                                {
+                                    "id" : "wpd003",
+                                    "name" : "The Elann",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/pendants/the-elann.JPG",
+                                    "sub-images" :
+                                       {
+                                            "image-path" : "images/women/pendants/the-elann-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg004",
+                                    "name" : "The Heart",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-heart.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/pendants/the-heart3.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/pendants/the-heart-ll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wpg005",
+                                    "name" : "The Heart 2",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-heart2.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/pendants/the-heart2-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/pendants/the-heart2-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wpg006",
+                                    "name" : "The Robinet",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-robinet.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/the-robinet-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg007",
+                                    "name" : "The Lise",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-lise.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/the-lise-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg008",
+                                    "name" : "The Muaad",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-muaad.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/the-muaad-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg009",
+                                    "name" : "The Alisa",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-alisa.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/the-alisa-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wpg009",
+                                    "name" : "The Ugo",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : "25",
+                                    "image-path" : "images/women/pendants/the-ugo.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/pendants/the-ugo-ll.JPG"
+                                        }
+                                }
+
+                            ]  
+                        }
+                    ]            
+                }, 
+                {
+                    "rings" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : "wrs001",
+                                    "name" : "Boucilier Ring",
+                                    "price" : "Rs.",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/boucilier-ring-l.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/rings/boucilier-ring-ll.JPG"
+                                        }
+                                },
+                                {
+                                    "id" : "wrs002",
+                                    "name" : "Cluster Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/cluster-ring-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/cluster-ring-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/cluster-ring-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrs003",
+                                    "name" : "Cushion Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/cushion-ring-l.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrs004",
+                                    "name" : "Engagement Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/engagement-ring-1.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/engagement-ring-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/engagement-ring-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrs005",
+                                    "name" : "Eternity band",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/eternity-band-1.JPG",
+                                    "sub-images" : [
+                                        {
+                                            "image-path" : "images/women/rings/eternity-band-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/eternity-band-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrs006",
+                                    "name" : "Eternity Band 2",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/eternity-band2-l.JPG",
+                                    "sub-images" : [
+                                        {
+                                            "image-path" : "images/women/rings/eternity-band2-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/eternity-band2-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrs006",
+                                    "name" : "Simple Round Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/simple-round-ring.JPG",
+                                    "sub-images" : "none"
+                                }
+
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : "wrg001",
+                                    "name" : "Diamond Gold Ring",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/diamond-gold-ring-l.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg002",
+                                    "name" : "Diamond Gold Ring 2",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/diamond-gold-ring-ll.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/rings/diamond-gold-ring-ll-2.JPG"
+                                        } 
+                                },
+                                {
+                                    "id" :"wrg003",
+                                    "name" : "Dimaond Ring 3",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/diamond-ring1.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/diamond-ring1-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/diamond-ring1-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wrg004",
+                                    "name" : "Heilaman Ring",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/hielamen-ring-ll.JPG",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/rings/hielamen-ring-l.JPG"
+                                        }
+                                },
+                                {
+                                    "id" :"wrg005",
+                                    "name" : "The Dellen",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/rings2.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" :"wrg006",
+                                    "name" : "The Helmut",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/ring3.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" :"wrg007",
+                                    "name" : "Round Ring",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/round-ring-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wrg008",
+                                    "name" : "Simple Ring",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/simple-ring1.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" :"wrg009",
+                                    "name" : "The Dosrey",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/the-dosrey.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" :"wrg0010",
+                                    "name" : "The Dusty",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/the-dusty.JPG",
+                                    "sub-images" : "none"
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : "wrd001",
+                                    "name" : "Infinity Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/infinity-ring-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/infinity-ring-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/infinity-ring-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd002",
+                                    "name" : "Lettuce Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/lettuce-ring-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/lettuce-ring-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/lettuce-ring-lV.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd003",
+                                    "name" : "Promise Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/promise-ring-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/promise-ring-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/promise-ring-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wrd004",
+                                    "name" : "Royal Band 1",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/royal-band-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/royal-band-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/royal-band-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd005",
+                                    "name" : "Breen",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/breen.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/breen2.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/breen3.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" :"wrd006",
+                                    "name" : "Sleek Band",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/sleek-band-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/sleek-band-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/sleek-band-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd007",
+                                    "name" : "Solitare Ring",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/solitare-ring-l.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/solitare-ring-ll.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/solitare-ring-lll.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd008",
+                                    "name" : "The Verina",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/the-verina.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/the-verina2.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/the-verina3.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd009",
+                                    "name" : "The Kieri",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/the-kieri.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/the-kieri2.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/the-kieri3.JPG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrd0010",
+                                    "name" : "The Maysha",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/rings/the-maysha.JPG",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/rings/the-maysha2.JPG"
+                                        },
+                                        {
+                                            "image-path" : "images/women/rings/the-maysha3.JPG"
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }, 
+                {
+                    "anklets" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : "was001",
+                                    "name" : "The Coira",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet7.jpeg",
+                                    "sub-images" :"none"
+                                },
+                                {
+                                    "id" : "was001",
+                                    "name" : "The Aurila",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" :"images/women/ankelts/silver/anklet8.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "was001",
+                                    "name" : "The Nailav",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet9.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "was001",
+                                    "name" : "The Ettore",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet19.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "was001",
+                                    "name" : "Orlin",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet21.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" :"was001",
+                                    "name" : "The Padriac",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet22.jpeg",
+                                    "sub-images" : "none"
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : "wrg001",
+                                    "name" : "The Helaine",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet1.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg002",
+                                    "name" : "The Fringe",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet2.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg003",
+                                    "name" : "The spining",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/silver/anklet3.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg004",
+                                    "name" : "The Tora",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet4-l.jpeg",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : "images/women/ankelts/gold/anklet4-ll.jpeg"
+                                        },
+                                        {
+                                            "image-path" : "images/women/ankelts/gold/anklet4-lll.jpeg"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : "wrg005",
+                                    "name" : "The Cathi",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet5.jpeg",
+                                    "sub-images" : 
+                                       {
+                                            "image-path" : "images/women/ankelts/gold/anklet5-ll.jpeg"
+                                        }
+                                },
+                                {
+                                    "id" :"wrg006",
+                                    "name" : "The Naison",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet6.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg007",
+                                    "name" : "The Ayanna",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet10.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg008",
+                                    "name" : "The Peyton",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet12.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg009",
+                                    "name" : "The Benzyon",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet13.jpeg",
+                                    "sub-images" :"none"
+                                },
+                                {
+                                    "id" : "wrg010",
+                                    "name" : "The Elazor",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet14.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg011",
+                                    "name" : "The Jarleth" ,
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet17.jpeg",
+                                    "sub-images" :"none"
+                                } ,
+                                {
+                                    "id" : "wrg012",
+                                    "name" : "The Adore",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet18.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrg013",
+                                    "name" : "The Cupid",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/ankelts/gold/anklet20.jpeg",
+                                    "sub-images" : "none"
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : "wrd001",
+                                    "name" : "The Walfrid",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/anklets/diamond/anklet11.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrd002",
+                                    "name" : "The Flash",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/anklets/diamond/anklet15.jpeg",
+                                    "sub-images" : "none"
+                                }, {
+                                    "id" : "wrd003",
+                                    "name" : "The Marrie",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/anklets/diamond/anklet16.jpeg",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrd004",
+                                    "name" : "The Floirra",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/anklets/diamond/anklet17.JPG",
+                                    "sub-images" : "none"
+                                }, {
+                                    "id" : "wrd005",
+                                    "name" : " The Shawwn",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/anklets/diamond/anklet18.JPG",
+                                    "sub-images" : "none"
+                                },
+                                {
+                                    "id" : "wrd006",
+                                    "name" : "The Embina",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : "images/women/anklets/diamond/anklet19.JPG",
+                                    "sub-images" :  "none"
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "bracelets" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "earrings" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "bangles" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "nosepins" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }
+            ]
+        }, 
+        {   
+            " kids-jewellery" :  [
+                {
+                    "pendants" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }, 
+                {
+                    "rings" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }, 
+                {
+                    "anklets" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "bracelets" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "earrings" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                },
+                {
+                    "bangles" : [
+                        {    
+                            "silver" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "gold" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "karat" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        },
+                        {    
+                            "diamond" :[
+                                {
+                                    "id" : 1,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 2,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id" : 3,
+                                    "name" : " ",
+                                    "price" : " ",
+                                    "weight" : " ",
+                                    "stones" : " ",
+                                    "image-path" : " ",
+                                    "sub-images" : [
+                                       {
+                                            "image-path" : " "
+                                        },
+                                        {
+                                            "image-path" : " "
+                                        }
+                                    ]
+                                }
+                            ]  
+                        }
+                    ]            
+                }
+            ]
+        }
+    ]
+}
